@@ -41,6 +41,8 @@ The nodes will appear under **models/advanced** in your node browser.
 - **Jurdn's Model Sculptor (SDXL)** - For SDXL models  
 - **Jurdn's Model Sculptor (SD3)** - For Stable Diffusion 3 models
 
+Finetuned versions of the above architectures (such as Illustrious, because it is based on SDXL)
+
 ## How to Use
 
 1. **Connect your model** from "Load Diffusion Model" directly to a Model Sculptor node
