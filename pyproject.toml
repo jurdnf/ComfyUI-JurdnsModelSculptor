@@ -1,0 +1,14 @@
+[project]
+name = "ComfyUI-JurdnsModelSculptor"
+description = "A collection of ComfyUI nodes that sculpt diffusion models by applying gradient-based modifications to different layers and blocks."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+
+[project.urls]
+Repository = "https://github.com/jurdnf/ComfyUI-JurdnsModelSculptor.git"
+
+
+[tool.comfy]
+PublisherId = "iamjurdn"
+DisplayName = "ComfyUI-JurdnsModelSculptor"
+includes = []
